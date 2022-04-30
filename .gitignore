@@ -1,0 +1,12 @@
+/BinarySearch/*.idea
+/BinarySearch/cmake-build-debug
+/GraphTheory/*.idea
+/GraphTheory/cmake-build-debug
+/MST/*.idea
+/MST/cmake-build-debug
+/ShortestPath/*.idea
+/ShortestPath/cmake-build-debug
+/SortAlgorithm/*.idea
+/SortAlgorithm/cmake-build-debug
+/UnionFind/*.idea
+/UnionFind/cmake-build-debug
