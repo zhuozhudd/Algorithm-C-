@@ -1,5 +1,6 @@
-.gitignore
-*.DS_Store
+/.gitignore
+.DS_Store
+*/.DS_Store
 /BinarySearch/*.idea
 /BinarySearch/cmake-build-debug
 /GraphTheory/*.idea
